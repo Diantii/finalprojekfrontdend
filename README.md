@@ -1,2 +1,2 @@
-# finalprojekfrontdend
-finalexam
+# Final-Exam
+Membuat aplikasi ReactJs sederhana
